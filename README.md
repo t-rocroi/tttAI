@@ -2,7 +2,7 @@
 building a TicTacToe AI, then morphing it into a Connect4 AI
 
 ### Running
-Run `python ttt.py` at the command line
+Run `python ttt.py` at the command line. This is tested on Python 3.7.2.
 
 ### Basics and Input
 This will create a Command Line tic-tac-toe game. THe human plays 'X' and inputs moves as coordinates, i.e. `0, 0` or `1, 2`. The board is a grid (0, 2) x (0, 2). When entering moves, spaces can be added between the coordinates and the comma, but they need to be comma separated.
